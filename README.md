@@ -21,3 +21,14 @@ This project analyzes 30 days of restaurant operational data to identify ineffic
 
 ### Tools Used
 - Google Sheets (Excel)
+## Project 2: Customer Behavior & Sales Analysis
+
+Analyzed customer transaction data using SQL to identify revenue drivers and purchasing patterns.
+
+### Key Insights:
+- Bowl category generates the highest revenue
+- Weekend sales are higher than weekdays
+- Higher item count increases order value
+
+### Tools Used:
+- SQL
